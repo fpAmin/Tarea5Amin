@@ -14,10 +14,8 @@ public class Sistemas {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int op = 0;
-        while  (op!=1)
-        {
-            System.out.println("Hola mundo ");
+      for (int i = 0; i < 10; i++) {
+            System.out.println("Hola mundo");
         }
     }
     
