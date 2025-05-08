@@ -14,7 +14,9 @@ public class Sistemas {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-      for (int i = 0; i < 10; i++) {
+      //Bucle finito que terimano cunado ir llegue a 10 
+        //Se imprime hola mundo por cada vez que se ejecuta el bucle
+        for (int i = 0; i < 10; i++) {
             System.out.println("Hola mundo");
         }
     }
